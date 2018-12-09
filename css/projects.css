@@ -1,0 +1,32 @@
+#projects{
+	padding-top: 60px;
+}
+
+.projects__item{
+	padding: 25px 38px 45px 32px;
+	margin-bottom: 77px;
+}
+
+.projects__item:hover .project_preview{
+	border-color: #C1272D
+}
+
+.projects__item:hover{
+	box-shadow: 0 5px 10px #ccc
+}
+
+.projects__title{
+	font-size: 24px;
+	color: #555
+}
+
+.project_preview{
+	border: 1px solid #c4c4c4;
+	border-radius: 50%;
+	margin-top: 25px;
+}
+@media (min-width: 548px) and (max-width: 706px){
+	.projects__item:hover {
+		
+	}
+}

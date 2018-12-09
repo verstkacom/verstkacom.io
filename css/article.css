@@ -1,0 +1,29 @@
+#article{
+	padding-top: 60px;
+}
+
+.article{
+	border-radius: 5px;
+	box-shadow: 0px 0px 10px #ccc;
+	padding: 30px;
+	margin-bottom: 66px;
+}
+
+.article__title, .num{
+	font-size: 24px;
+	font-weight: 500;
+	color: #8c8c8c;
+	text-align: center;;
+	margin-bottom: 17px;
+}
+
+.num{
+	margin-right: 21px;
+}
+
+.article__text{
+	color: #353535;
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 20px
+}

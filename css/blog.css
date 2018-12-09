@@ -1,0 +1,65 @@
+#blog{
+	padding-top: 60px;
+}
+
+.blog__item{
+	padding: 24px 26px 19px 61px;
+	box-shadow: -3px 3px 20px #ccc;
+	border-radius: 10px;
+	margin-bottom: 30px;
+}
+
+.preview{
+	margin-right: 87px;
+}
+
+.info__title{
+	padding-bottom: 25px;
+	border-bottom: 1px solid #C1272D;
+}
+
+.info__title, .info__title span{
+	font-size: 24px;
+	font-weight: 500;
+	color: #353535;
+}
+
+.info__title span{
+	font-size: 18px;
+}
+
+.info__date{
+	display: block;
+}
+
+.info__text{
+	margin-top: 32px;
+	color: #555555;
+	font-size: 16px;
+	line-height: 20px;
+}
+
+.info__author{
+	margin-top: 24px;
+	display: block;
+}
+
+.info__author__author{
+	color: #000
+}
+.rot:hover {
+ -webkit-transform: rotateZ(360deg);
+  -ms-transform: rotateZ(360deg);
+  transform: rotateZ(360deg);
+}
+
+.soc_hover i:hover {
+	position: relative;
+	top: 5px;
+	padding: 0px 5px 0px 5px
+}
+button {
+	margin:0 auto;
+	position: relative;
+	top: 10px
+}

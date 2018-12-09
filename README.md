@@ -1,1 +1,0 @@
-# verstkacom.io
